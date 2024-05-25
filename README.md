@@ -1,2 +1,2 @@
-# Linux
-Linux system installation and updates. Administration basics.
+# Linux_network
+Linux networks configuration on virtual machines.
